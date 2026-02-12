@@ -93,10 +93,10 @@ Reduced overfitting - Strong generalization performance
 
 Final pipeline evaluation (held-out test set):
 
--   Accuracy: 0.964\
--   Recall: 0.625\
--   Precision: 0.700\
--   F1 Score: 0.660
+-   Accuracy: 0.88
+-   Recall: 0.87
+-   Precision: 0.32
+-   F1 Score: 0.47
 
 Recall was prioritized due to the high cost of undetected failures.
 
